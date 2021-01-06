@@ -10,5 +10,5 @@ Programa parašyta naudojant struktūrą "studentas".
 Šioje realizacijoje vietoje vienos Studentas klasės sukurtos dvi: bazinė klasė - Zmogus - skirta bendrai aprašyti žmogų, ir iš jos išvestinė (derived) klasė - Studentas. Bazinė klasė Zmogus yra abstrakčioji klasė, t.y. nėra galima sukurti žmogaus tipo objektų, o tik objektus, gautus iš jos išvestinių klasių.
 * [V2.0 versija](https://github.com/misi6670/Objektinis-programavimas-2/releases/tag/V2.0)
 Šioje realizacijoje sukurta dokumentacija panaudojant Doxygen. Realizuoti Unit Testai naudojant GoogleTest framework'ą. 
-* [V3.0 versija](https://github.com/misi6670/Objektinis-programavimas-2/releases/tag/V3.0)
+* [V3.0 versija](https://github.com/misi6670/Objektinis-programavimas-3/releases/tag/V3.0)
 Šioje realizacijoje sukurtas programos diegimo failas 1.5 versijos pagrindu ir jos naudojimosi instrukcija. 
