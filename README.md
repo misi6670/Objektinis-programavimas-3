@@ -1,4 +1,4 @@
-# Programos versija V2.0
+# Programos versija V3.0
 Ši programa nuskaito vartotojų įvedamus duomenis (studento vardą ir pavardę, namų darbų ir egzamino rezultatą). Baigus duomenų įvedimą, suskaičiuoja galutinį balą ir juos pateikia į ekraną. Galutinis balas skaičiuojamas pagal vartotojo pasirinkimą - naudojant vidurkį arba medianą ir yra pateikiamas dviejų skaičių po kablelio tikslumu. Studentai padalinami į dvi kategorijas - "išlaikiusieji" (studentai, kurių galutinis balas >= 5.0) ir "neišlaikiusieji" (studentai, kurių galutinis balas < 5.0) - ir atitinkamai išvedami į du naujus failus - "islaike.txt" ir "neislaike.txt". Studentai išvedami surūšiuoti pagal vardus, pavardes ir galutinį pažymį. Vartotojui pasirinkus, studento pažymius galima generuoti atsitiktinai, duomenis taip pat galima nuskaityti iš failo.
 * [V1.0 versija](https://github.com/misi6670/Objektinis-programavimas/releases/tag/V1.0) 
 Programa parašyta naudojant struktūrą "studentas".
