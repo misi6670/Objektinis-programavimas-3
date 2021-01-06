@@ -88,5 +88,6 @@ int main()
         grupe1.clear();
         grupe.clear();
     }
+    system("pause");
     return(0);
 }
